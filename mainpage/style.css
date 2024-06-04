@@ -51,11 +51,15 @@ nav ul li {
     padding:5px;
     color: rgb(57, 79, 107);}
 
-a {
+nav ul {
+    padding: 0;
+    border-color: black;
     text-decoration: none;
-    color: rgb(57, 79, 107);}
+    color: rgb(57, 79, 107);
+    border: 10px;
+    border-style: solid;
+    border-start-end-radius:un;}
     
-
 
 .footerimg {
     border-radius: 50px;
@@ -66,14 +70,12 @@ a {
     padding:20px}
 
 .interests {
+    padding: 0;
     font-weight: bold;
     font-family:'Courier New', Courier, monospace;
     color: blue;
     text-decoration: underline;
-    font-size: 30px;
-    padding: 0;}
-
-ul {padding: 0;}
+    font-size: 30px;}
 
 
 
