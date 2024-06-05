@@ -14,8 +14,8 @@
 #middlesection {
     display: block;
     border-radius: 50px;
-    background-color: rgba(25, 28, 29, 0.973);
-    color: rgb(25, 116, 73);
+    background-color: rgba(25, 28, 29, 0.829);
+    color:rgb(0, 255, 85);
     margin-left: auto;
     margin-right: auto;
     max-width: 50%;}
@@ -82,18 +82,18 @@ hr {
     margin-right: auto;
     list-style: none;
     padding: 0px;
-    text-decoration: none}
+    text-decoration: none;}
 
-li {padding: 10px;}
+li {
+    background-color: rgba(144, 161, 177, 0.815);
+    padding: 10px;}
 
 .listborder {
-    text-decoration-line: none;
-    max-width: 100%;
-    border-color: rgb(255, 255, 255);
-    border-style: solid;
-    padding:9px;}
+    border-color: rgb(71, 5, 253);
+    border-style: solid;}
 
 a:link {
+    background-color: rgba(0, 255, 255, 0);
     text-decoration-line: none;
     color: rgb(0, 255, 85);}
 a:visited {
@@ -114,6 +114,8 @@ a:active{
     color: rgba(0, 0, 255, 0.493);
     text-decoration: underline;
     font-size: 30px;}
+
+
 
 
 
